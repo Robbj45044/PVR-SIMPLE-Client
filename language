@@ -1,0 +1,1771 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class=" is-copy-enabled emoji-size-boost">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-11a662d59757ef2ced3c65b6a175b2ebad3770c188a3b2cc0025b735fc78867c.css" integrity="sha256-EaZi1ZdX7yztPGW2oXWy6603cMGIo7LMACW3Nfx4hnw=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-e35875ad236135715d080fd17b236e3818f33f3ddb9167ee7e9acaad671b72b2.css" integrity="sha256-41h1rSNhNXFdCA/ReyNuOBjzPz3bkWfufprKrWcbcrI=" media="all" rel="stylesheet" />
+    
+    
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-c31d97cdffdd1a140b356a16a2e2b37db7c98fa23ce2127f79a61bc338af1083.css" integrity="sha256-wx2Xzf/dGhQLNWoWouKzfbfJj6I84hJ/eaYbwzivEIM=" media="all" rel="stylesheet" />
+    
+
+    <link as="script" href="https://assets-cdn.github.com/assets/frameworks-655305f0453f424f8dab87dc1ae0e385e5982f72f7e2ce14eb1a9c229174cebe.js" rel="preload" />
+    
+    <link as="script" href="https://assets-cdn.github.com/assets/github-5b26137e505956beabe3500d02fe0cbfcfc914b7054613b4b38812c765d5b51d.js" rel="preload" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>pvr.iptvsimple/pvr.iptvsimple/resources/language at master · kodi-pvr/pvr.iptvsimple · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="https://avatars1.githubusercontent.com/u/11259403?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="kodi-pvr/pvr.iptvsimple" name="twitter:title" /><meta content="pvr.iptvsimple - Kodi&#39;s IPTV Simple client addon " name="twitter:description" />
+      <meta content="https://avatars1.githubusercontent.com/u/11259403?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="kodi-pvr/pvr.iptvsimple" property="og:title" /><meta content="https://github.com/kodi-pvr/pvr.iptvsimple" property="og:url" /><meta content="pvr.iptvsimple - Kodi&#39;s IPTV Simple client addon " property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+    <meta name="request-id" content="621DC3E0:3D6E:73D749A:57BA9C1B" data-pjax-transient>
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="621DC3E0:3D6E:73D749A:57BA9C1B" name="octolytics-dimension-request_id" />
+<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate" data-pjax-transient="true" name="analytics-location" />
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+        <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+        <meta name="expected-hostname" content="github.com">
+      <meta name="js-proxy-site-detection-payload" content="NDgwY2YwZWViN2E4YjMyZTQ1M2ZjYTMxMjBlZjkyNDIyYzQ5ZmFiNjIxMDUwZTM1MDA5ZTFhZDA3NDNjOTlkM3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMjkuMTk1LjIyNCIsInJlcXVlc3RfaWQiOiI2MjFEQzNFMDozRDZFOjczRDc0OUE6NTdCQTlDMUIiLCJ0aW1lc3RhbXAiOjE0NzE4NDc0NTJ9">
+
+
+      <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <meta name="html-safe-nonce" content="647e466c2c042ac11f69e80b0f60554ced20266f">
+    <meta content="f5ea3ce5265cdcff816b044526081349e9c02931" name="form-nonce" />
+
+    <meta http-equiv="x-pjax-version" content="bdea0278af21b15d7c2f170525dc9813">
+    
+
+      
+  <meta name="description" content="pvr.iptvsimple - Kodi&#39;s IPTV Simple client addon ">
+  <meta name="go-import" content="github.com/kodi-pvr/pvr.iptvsimple git https://github.com/kodi-pvr/pvr.iptvsimple.git">
+
+  <meta content="11259403" name="octolytics-dimension-user_id" /><meta content="kodi-pvr" name="octolytics-dimension-user_login" /><meta content="31507613" name="octolytics-dimension-repository_id" /><meta content="kodi-pvr/pvr.iptvsimple" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="31507613" name="octolytics-dimension-repository_network_root_id" /><meta content="kodi-pvr/pvr.iptvsimple" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/kodi-pvr/pvr.iptvsimple/commits/master.atom" rel="alternate" title="Recent Commits to pvr.iptvsimple:master" type="application/atom+xml">
+
+
+      <link rel="canonical" href="https://github.com/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language" data-pjax-transient>
+  </head>
+
+
+  <body class="logged-out  env-production macintosh vis-public">
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+
+    
+    
+    
+
+
+
+          <header class="site-header js-details-container" role="banner">
+  <div class="container-responsive">
+    <a class="header-logo-invertocat" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+    </a>
+
+    <button class="btn-link right site-header-toggle js-details-target" type="button" aria-label="Toggle navigation">
+      <svg aria-hidden="true" class="octicon octicon-three-bars" height="24" version="1.1" viewBox="0 0 12 16" width="18"><path d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg>
+    </button>
+
+    <div class="site-header-menu">
+      <nav class="site-header-nav site-header-nav-main">
+        <a href="/personal" class="js-selected-navigation-item nav-item nav-item-personal" data-ga-click="Header, click, Nav menu - item:personal" data-selected-links="/personal /personal">
+          Personal
+</a>        <a href="/open-source" class="js-selected-navigation-item nav-item nav-item-opensource" data-ga-click="Header, click, Nav menu - item:opensource" data-selected-links="/open-source /open-source">
+          Open source
+</a>        <a href="/business" class="js-selected-navigation-item nav-item nav-item-business" data-ga-click="Header, click, Nav menu - item:business" data-selected-links="/business /business/features /business/customers /business">
+          Business
+</a>        <a href="/explore" class="js-selected-navigation-item nav-item nav-item-explore" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship /explore">
+          Explore
+</a>      </nav>
+
+      <div class="site-header-actions">
+            <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fkodi-pvr%2Fpvr.iptvsimple%2Ftree%2Fmaster%2Fpvr.iptvsimple%2Fresources%2Flanguage" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+      </div>
+
+        <nav class="site-header-nav site-header-nav-secondary">
+          <a class="nav-item" href="/pricing">Pricing</a>
+          <a class="nav-item" href="/blog">Blog</a>
+          <a class="nav-item" href="https://help.github.com">Support</a>
+          <a class="nav-item header-search-link" href="https://github.com/search">Search GitHub</a>
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/kodi-pvr/pvr.iptvsimple/search" class="js-site-search-form" data-scoped-search-url="/kodi-pvr/pvr.iptvsimple/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <label class="form-control header-search-wrapper js-chromeless-input-container">
+      <div class="header-search-scope">This repository</div>
+      <input type="text"
+        class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s"
+        name="q"
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off">
+    </label>
+</form></div>
+
+        </nav>
+    </div>
+  </div>
+</header>
+
+
+
+    <div id="start-of-content" class="accessibility-aid"></div>
+
+      <div id="js-flash-container">
+</div>
+
+
+    <div role="main">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode">
+    <div id="js-repo-pjax-container" data-pjax-container>
+      
+<div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
+  <div class="container repohead-details-container">
+
+    
+
+<ul class="pagehead-actions">
+
+  <li>
+      <a href="/login?return_to=%2Fkodi-pvr%2Fpvr.iptvsimple"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/kodi-pvr/pvr.iptvsimple/watchers">
+    37
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fkodi-pvr%2Fpvr.iptvsimple"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/kodi-pvr/pvr.iptvsimple/stargazers">
+      50
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fkodi-pvr%2Fpvr.iptvsimple"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+        Fork
+      </a>
+
+    <a href="/kodi-pvr/pvr.iptvsimple/network" class="social-count">
+      84
+    </a>
+  </li>
+</ul>
+
+    <h1 class="public ">
+  <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  <span class="author" itemprop="author"><a href="/kodi-pvr" class="url fn" rel="author">kodi-pvr</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a href="/kodi-pvr/pvr.iptvsimple" data-pjax="#js-repo-pjax-container">pvr.iptvsimple</a></strong>
+
+</h1>
+
+  </div>
+  <div class="container">
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/kodi-pvr/pvr.iptvsimple" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /kodi-pvr/pvr.iptvsimple" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/kodi-pvr/pvr.iptvsimple/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /kodi-pvr/pvr.iptvsimple/issues" itemprop="url">
+        <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+        <span itemprop="name">Issues</span>
+        <span class="counter">15</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/kodi-pvr/pvr.iptvsimple/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /kodi-pvr/pvr.iptvsimple/pulls" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="counter">3</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+
+
+
+  <a href="/kodi-pvr/pvr.iptvsimple/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /kodi-pvr/pvr.iptvsimple/pulse">
+    <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"></path></svg>
+    Pulse
+</a>
+  <a href="/kodi-pvr/pvr.iptvsimple/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /kodi-pvr/pvr.iptvsimple/graphs">
+    <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg>
+    Graphs
+</a>
+
+</nav>
+
+  </div>
+</div>
+
+<div class="container new-discussion-timeline experiment-repo-nav">
+  <div class="repository-content">
+
+    
+<div class="file-navigation">
+  
+<div class="select-menu branch-select-menu js-menu-container js-select-menu left">
+  <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <i>Branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/kodi-pvr/pvr.iptvsimple/tree/Isengard/pvr.iptvsimple/resources/language"
+               data-name="Isengard"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                Isengard
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/kodi-pvr/pvr.iptvsimple/tree/Jarvis/pvr.iptvsimple/resources/language"
+               data-name="Jarvis"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                Jarvis
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="btn-group right">
+    
+  <button class="btn btn-sm disabled tooltipped tooltipped-n" aria-label="You must be signed in to make or propose changes" type="button">
+    Create new file
+  </button>
+
+
+
+    <a href="/kodi-pvr/pvr.iptvsimple/find/master" data-pjax data-hotkey="t" class="js-pjax-capture-input btn btn-sm empty-icon">
+      Find file
+    </a>
+    <a href="/kodi-pvr/pvr.iptvsimple/commits/master/pvr.iptvsimple/resources/language" class="btn btn-sm empty-icon tooltipped tooltipped-nw" aria-label="Browse commits for this branch">
+      History
+    </a>
+  </div>
+  <div class="breadcrumb"><span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/kodi-pvr/pvr.iptvsimple"><span>pvr.iptvsimple</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple"><span>pvr.iptvsimple</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources"><span>resources</span></a></span><span class="separator">/</span><strong class="final-path">language</strong><span class="separator">/</span></div>
+</div>
+
+
+
+
+  <div class="commit-tease js-details-container">
+    <span class="right">
+      Latest commit
+      <a class="commit-tease-sha" href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" data-pjax>
+        a4c5255
+      </a>
+      <span itemprop="dateModified"><relative-time datetime="2016-08-20T22:48:28Z">Aug 20, 2016</relative-time></span>
+    </span>
+
+
+    <span class="commit-author-section">
+      <img alt="@txtranslation" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/6871134?v=3&amp;s=40" width="20" />
+      <a href="/txtranslation" class="user-mention" rel="contributor">txtranslation</a>
+    </span>
+
+        <a href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+    </span>
+
+  </div>
+
+
+<div class="file-wrap">
+
+  <a href="/kodi-pvr/pvr.iptvsimple/tree/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2/pvr.iptvsimple/resources/language" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+  <table class="files js-navigation-container js-active-navigation-container" data-pjax>
+      <tr class="up-tree js-navigation-item">
+        <td></td>
+        <td><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources" class="js-navigation-open" rel="nofollow" title="Go to parent directory">..</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+
+
+    <tbody>
+      <tr class="warning include-fragment-error">
+        <td class="icon"><svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg></td>
+        <td class="content" colspan="3">Failed to load latest commit information.</td>
+      </tr>
+
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.af_za" class="js-navigation-open" id="84970109bdbade182fad1d9e2f2b2891-b5b2d3b594996aa472901617ec79c7fe19ae73e0" title="resource.language.af_za">resource.language.af_za</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/bd52b6243cffd567adcb09f9791b4337ae6079ed" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-01-23T22:26:25Z">Jan 23, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.am_et" class="js-navigation-open" id="b5e6f684ec8f17d83916785c9fe5a05a-f86f95556f4aa15fcc9f6d5e6b2ea706e906ca7e" title="resource.language.am_et">resource.language.am_et</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ar_sa" class="js-navigation-open" id="c5ecc4ba117d6e5b3fac378d843b4cef-327389763a3dc44f2d258a815d9604431c3b20ee" title="resource.language.ar_sa">resource.language.ar_sa</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.az_az" class="js-navigation-open" id="87cbdd6827481af3dcf3dd974f4cd162-f3931073ea685249bcaad02f3834dcb998de7e8a" title="resource.language.az_az">resource.language.az_az</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-08-20T22:48:28Z">Aug 20, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.be_by" class="js-navigation-open" id="4c34edda33e8d859def8c4364d6420c6-b7bc0affe440b86c4fa9659b1c628cc516f1d7ad" title="resource.language.be_by">resource.language.be_by</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.bg_bg" class="js-navigation-open" id="8f81db4c9811c4b290c3e0c447c466a9-c99b5cc1eeaf4925def11d387b3fd5204a40df80" title="resource.language.bg_bg">resource.language.bg_bg</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/1ea1f36ea8d2c1265c1854805cf33fb0d65ced59" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-06-18T21:09:48Z">Jun 18, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.bs_ba" class="js-navigation-open" id="a67f5d04f25289897b66144a375f324b-92d4aff67dab4a806917f879bf1ca5f688cc7423" title="resource.language.bs_ba">resource.language.bs_ba</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ca_es" class="js-navigation-open" id="445d3099d7ee4644861899223c53ca4f-0c91cba8399847c3e0ddcb627c786b151c0f7c4d" title="resource.language.ca_es">resource.language.ca_es</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-08-20T22:48:28Z">Aug 20, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.cs_cz" class="js-navigation-open" id="7adda0621da0c197635e253a0632cdf0-63e7f5d9807190501cbe9a05a77f4400f2eb1e90" title="resource.language.cs_cz">resource.language.cs_cz</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.cy_gb" class="js-navigation-open" id="b2985974981a68d9fa6d7602b41fe899-bb185e923b03b51f8dfcf45e92cafafaaa485cb9" title="resource.language.cy_gb">resource.language.cy_gb</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.da_dk" class="js-navigation-open" id="5943bcc2b0b85ca055d26216b678e454-b6a3b054093c7e2c8d7fc4d0698a9e8cf410be49" title="resource.language.da_dk">resource.language.da_dk</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.de_de" class="js-navigation-open" id="cc9688c3035fb4a584b13068447a1ce4-dcc465e87663ebe08793e2a83dd2d834a235c1be" title="resource.language.de_de">resource.language.de_de</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.el_gr" class="js-navigation-open" id="708c82875e2a28d56f515df1d5d395d5-4a5f26f88abf6604d7d393e395bbc4abe745cf08" title="resource.language.el_gr">resource.language.el_gr</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/85a31ca583b705ca48a91a0ab103fa0789f5fdac" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-01-03T20:27:50Z">Jan 3, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.en_au" class="js-navigation-open" id="e5ad5ba108c6a81bfca24957d03376ff-647aa746dc1db4873fdceae5f04f8f7b752575c2" title="resource.language.en_au">resource.language.en_au</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.en_gb" class="js-navigation-open" id="2d9fa378143d024290e2ed5ccddb8602-588371e33f7ebad9f798ebc9fddd85f63167baab" title="resource.language.en_gb">resource.language.en_gb</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.en_nz" class="js-navigation-open" id="44dce44a4f662fc08cc61e77c50aeefd-80135edfffebc5cb05d120b7d1e366098d8ecba9" title="resource.language.en_nz">resource.language.en_nz</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.en_us" class="js-navigation-open" id="e9bd0eaf32eec725ce419b031319be21-e167fda4f168cce96e7a6f3dafe020d643dcb765" title="resource.language.en_us">resource.language.en_us</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.eo" class="js-navigation-open" id="40b49622b2cb301e03998a0a72f8c173-d0d7afd41c7efb01f2d5f0319322ba090e3e1957" title="resource.language.eo">resource.language.eo</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.es_ar" class="js-navigation-open" id="f58c44017e58cbda0cae46f44ab8b380-732b71c09163642cb99a0eb93f50e0c3e617b75c" title="resource.language.es_ar">resource.language.es_ar</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.es_es" class="js-navigation-open" id="56379cd69b0f45545e2eefc992108072-39f938586de54ffb2dce7cd4943e60c9453bdf44" title="resource.language.es_es">resource.language.es_es</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.es_mx" class="js-navigation-open" id="c174eac2301436024cfd18d09ae39d12-e6be2b9830849145f681c22c91eaa9afe3a3ef0f" title="resource.language.es_mx">resource.language.es_mx</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/1ea1f36ea8d2c1265c1854805cf33fb0d65ced59" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-06-18T21:09:48Z">Jun 18, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.et_ee" class="js-navigation-open" id="b63d17e8de5706e5e03f5a9e2edd4e29-c3103ef2c64d591b0d02e494f7d7b34dc644e95c" title="resource.language.et_ee">resource.language.et_ee</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.eu_es" class="js-navigation-open" id="91bb63cb7e375bbb01735d96450fad13-a88c44136a92691bdfe06e010706cb31d698e170" title="resource.language.eu_es">resource.language.eu_es</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fa_af" class="js-navigation-open" id="29231044f918cec1de0f2398b4c9e60f-f0da6ebed226cc7bc27d082edc281245903c0499" title="resource.language.fa_af">resource.language.fa_af</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fa_ir" class="js-navigation-open" id="03f3737fd3f09e382da5a31f379893c0-c843bf5e92764f9549794ccaae606950af41b7b8" title="resource.language.fa_ir">resource.language.fa_ir</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fi_fi" class="js-navigation-open" id="9cfdede4dc1cb191f6d6f7decde71d19-6a610ab8e0106938d64014844865e303e297da4d" title="resource.language.fi_fi">resource.language.fi_fi</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-08-20T22:48:28Z">Aug 20, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fo_fo" class="js-navigation-open" id="9e5d99930f42d057cc686b7ea7513ee2-2b6a036842288d7bf3e12e1c26807fa5747b181a" title="resource.language.fo_fo">resource.language.fo_fo</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fr_ca" class="js-navigation-open" id="46506f7214970181098f467a261c0d1f-41130e92b423104d7102cd3dc9de3d9c1d90e034" title="resource.language.fr_ca">resource.language.fr_ca</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.fr_fr" class="js-navigation-open" id="726da5affc7dfcb3589dcc41c0816343-6a20ad67df8a679a12ab7d3bcfab977300c598e0" title="resource.language.fr_fr">resource.language.fr_fr</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.gl_es" class="js-navigation-open" id="acefd84356cbba36fa515b882c0fda19-a9a18d274d061c0e2f4575b5899d1531495dd5d5" title="resource.language.gl_es">resource.language.gl_es</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.he_il" class="js-navigation-open" id="dd2c347964bd7dae8b0ca24ab4e631f0-05589873dcc3e5812b26a0639afa3759ec6daf5e" title="resource.language.he_il">resource.language.he_il</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.hi_in" class="js-navigation-open" id="151b4cc52aeba870c9a4da1cd62bc412-3046585d8a6525b612e27ef8eb1857c9f32729de" title="resource.language.hi_in">resource.language.hi_in</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.hr_hr" class="js-navigation-open" id="0c6df7f145d22786ab2c25041b9af997-8c92f070a554fb765522ee0bb507dabc090cdd8b" title="resource.language.hr_hr">resource.language.hr_hr</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.hu_hu" class="js-navigation-open" id="d47794bb02f92bbc4fa8011b0b01e7d1-9418ae92aac0cbd96cbb8b8f624ce969a49948c5" title="resource.language.hu_hu">resource.language.hu_hu</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.hy_am" class="js-navigation-open" id="6fdda5de6f4de9c5c6b1b1993d8a6a08-1823a4bd201230fd76f745cc3f2d1b16ef52a9c9" title="resource.language.hy_am">resource.language.hy_am</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.id_id" class="js-navigation-open" id="b461b0b2533ed2566cbc0839195c01aa-fd09b6dca76c79d22cf4fe1afc8cff3a1b07908d" title="resource.language.id_id">resource.language.id_id</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.is_is" class="js-navigation-open" id="2f6bc9ace6789b12798dd06d720c25f9-348c64f0da35e8bec5f2752719bcfbad03a10284" title="resource.language.is_is">resource.language.is_is</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.it_it" class="js-navigation-open" id="996bee453d54934e6bb589fd87862218-86e71994db7dba58bded292539422c3c6b326408" title="resource.language.it_it">resource.language.it_it</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ja_jp" class="js-navigation-open" id="0687da1a661b8947c4287cb262489ab2-3229a5b4169b43c6e137b00340988cdf8d44be1f" title="resource.language.ja_jp">resource.language.ja_jp</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ko_kr" class="js-navigation-open" id="2a987de74cd7cbcce3497c7d95c5cfc0-221fe7ba6c4d56d49acd5eda84ec9466b9069cda" title="resource.language.ko_kr">resource.language.ko_kr</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/a4c52558bc6f1bbf472aac187d3fe7d79eb6eac2" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-08-20T22:48:28Z">Aug 20, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.lt_lt" class="js-navigation-open" id="d761b2195bab39d0ce50bcb74e7a23a9-7647b026ba9f1abba657cd99c17d3bd2e5bca3e9" title="resource.language.lt_lt">resource.language.lt_lt</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.lv_lv" class="js-navigation-open" id="0e00432afb971157c9ca8cd3d5135e1d-0b58c791896bf4786347ec18fd4a47b3a9223b85" title="resource.language.lv_lv">resource.language.lv_lv</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.mi" class="js-navigation-open" id="d456ab8e7947c8560b2f2fc451f997b8-36bcd06958506603640912fe086fc68ed8490d53" title="resource.language.mi">resource.language.mi</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.mk_mk" class="js-navigation-open" id="b4ab638e168acc466e98f6973b00469c-70886a15567b7f47aee9676d274ba6d0546279ee" title="resource.language.mk_mk">resource.language.mk_mk</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ml_in" class="js-navigation-open" id="b7fb7c163fd826f4019780d67ceb973f-db83ef995c157a7659ee5092d78df673d4f3d54e" title="resource.language.ml_in">resource.language.ml_in</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.mn_mn" class="js-navigation-open" id="fe12a79e9c9a751fdbff26f10484e273-c63580cbe195e710cb368e0cd48a04e35e1da80d" title="resource.language.mn_mn">resource.language.mn_mn</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ms_my" class="js-navigation-open" id="3bc7ae25c9cd2eadac7f7280b1b56690-ca3330b9f03bfcc21436f2d486aa00e387815b8a" title="resource.language.ms_my">resource.language.ms_my</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.mt_mt" class="js-navigation-open" id="b53a8efe3a00004bc8791aa71cf62c11-58f017016733d0a1c8706917a5bdd57b63c0e351" title="resource.language.mt_mt">resource.language.mt_mt</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.my_mm" class="js-navigation-open" id="3cf2b6519e44b88deb4b531a2d5d4493-7327b892a286b41a98b8b7a6ebf9aabc30c203bf" title="resource.language.my_mm">resource.language.my_mm</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.nb_no" class="js-navigation-open" id="3b00047ea55e4951afcce3bd9e880e4b-7ca7e4ff503bc7992c99af6aba7f5a53cbb0afe5" title="resource.language.nb_no">resource.language.nb_no</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/1ea1f36ea8d2c1265c1854805cf33fb0d65ced59" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-06-18T21:09:48Z">Jun 18, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.nl_nl" class="js-navigation-open" id="dc6508488334dca079d038038b06f545-b0a36f712654952653355a7a1e57da38d993b653" title="resource.language.nl_nl">resource.language.nl_nl</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.pl_pl" class="js-navigation-open" id="7770ccdd2b5de7e3ec83e8e80a525955-72cc4e87001cd7b7c9eb4101b16fed326ec390ca" title="resource.language.pl_pl">resource.language.pl_pl</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.pt_br" class="js-navigation-open" id="5687d44dc4d6bbd6980a4d88312e5d92-544d546272a32a032fd82e9dac259a4ac5536b8e" title="resource.language.pt_br">resource.language.pt_br</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.pt_pt" class="js-navigation-open" id="85d821c51278340a73559b945a769927-3c4175d926ebfa41d056c53c20bf2c5277733954" title="resource.language.pt_pt">resource.language.pt_pt</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/567eeb3351a7fcefdd39f34fc4e916174c8b75a4" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-01-10T21:41:24Z">Jan 10, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ro_ro" class="js-navigation-open" id="e46d5af6a7108971638e356624e8c27b-83d34894b554bf737f032ef97722c76d9bb7036a" title="resource.language.ro_ro">resource.language.ro_ro</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/85a31ca583b705ca48a91a0ab103fa0789f5fdac" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-01-03T20:27:50Z">Jan 3, 2016</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ru_ru" class="js-navigation-open" id="624ade6b4fe67c2acf4704e106d17a81-0a07e0470e4a8e524858c9a17b7d80078caf3435" title="resource.language.ru_ru">resource.language.ru_ru</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.si_lk" class="js-navigation-open" id="60b6214cafae1786d548cf5211c2e7c7-ab8226686ea93d98e704e58b85cb0429cb2e430c" title="resource.language.si_lk">resource.language.si_lk</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sk_sk" class="js-navigation-open" id="da0d961dd9e6dedf61bd45e82adf3bf6-3e7f79a588b4ecfd607fd4389c9eb8a15b0edde9" title="resource.language.sk_sk">resource.language.sk_sk</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sl_si" class="js-navigation-open" id="548a9354d8b58b03af5557e02804e92a-22487f39afa03e27553351bb46dde718f808b9f8" title="resource.language.sl_si">resource.language.sl_si</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sq_al" class="js-navigation-open" id="81ee6015682786af9ffbed184de404af-67217a72c2a5b211c04b5bd0d893167e15d7fe00" title="resource.language.sq_al">resource.language.sq_al</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sr_rs" class="js-navigation-open" id="9c04afe5e2e448f600cefaac1cf8d89e-67c8eb47d5d74bca776e5bfbe7ba4ccf0df48443" title="resource.language.sr_rs">resource.language.sr_rs</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sr_rs%40latin" class="js-navigation-open" id="f308ea13c6394ff72db17f17c165016f-d0bb5b9d1e5deae20498491495d305b1d200f98a" title="resource.language.sr_rs@latin">resource.language.sr_rs@latin</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.sv_se" class="js-navigation-open" id="e89fc891651380789ac7e5d7e201483c-74cb750fa4df510676dd9d068dbb0784e5f32651" title="resource.language.sv_se">resource.language.sv_se</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.szl" class="js-navigation-open" id="c06992ce383a9bff9c9e6e7241dd516b-d6ab253f12fcb2fe7b8d138cb7ffcf90394be426" title="resource.language.szl">resource.language.szl</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.ta_in" class="js-navigation-open" id="4bc8b4570f4c126e8a1433a3595225ca-b2accbafa2c0d6a558dc76fd704890650e7f9ae1" title="resource.language.ta_in">resource.language.ta_in</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.te_in" class="js-navigation-open" id="562f7161a62b9d409819a3ba2f78a1dd-9245842e12ef80d3005323807d5ab1974ee2e75a" title="resource.language.te_in">resource.language.te_in</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.tg_tj" class="js-navigation-open" id="f7593973e507645f5f1bf176410ad5c3-31bf60099532c346620788f32da1a2233922e202" title="resource.language.tg_tj">resource.language.tg_tj</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.th_th" class="js-navigation-open" id="299b9f74235c121528e890acc336b3cc-2886463ba7dddbb58b4b3a26d05298d70ed15693" title="resource.language.th_th">resource.language.th_th</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.tr_tr" class="js-navigation-open" id="9d737c3c5430de10ad7495c577ca8002-4514e85b7d15fcbbe1d2e4fa2f3adcd3e92e7674" title="resource.language.tr_tr">resource.language.tr_tr</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.uk_ua" class="js-navigation-open" id="24bba341a0182ffcc6d6ab09305cc111-9b45965ae26ec00124dd15141d76e7c24eeb988f" title="resource.language.uk_ua">resource.language.uk_ua</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.uz_uz" class="js-navigation-open" id="bf4c733e682d0ebce34ac7f320219d84-1baebb0e0e5c5d43ea3903fec39be37a87e85d10" title="resource.language.uz_uz">resource.language.uz_uz</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.vi_vn" class="js-navigation-open" id="132824753e81b8fcf1c7cdb6e9cb634b-b89170ea58edee39f0296a4e64ad5eb94ce90bf0" title="resource.language.vi_vn">resource.language.vi_vn</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/eda38ccfd3f4354e6d5111420b43d2b18a4a7be9" class="message" data-pjax="true" title="[lang] updated language files from Transifex">[lang] updated language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-12-08T08:01:55Z">Dec 8, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.zh_cn" class="js-navigation-open" id="ead81c029e54dc3471deed53771845b3-043642353da5ccd974670cbcbbe0024aa768791a" title="resource.language.zh_cn">resource.language.zh_cn</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-hidden="true" class="octicon octicon-file-directory" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M13 4H7V3c0-.66-.31-1-1-1H1c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V5c0-.55-.45-1-1-1zM6 4H1V3h5v1z"></path></svg>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/kodi-pvr/pvr.iptvsimple/tree/master/pvr.iptvsimple/resources/language/resource.language.zh_tw" class="js-navigation-open" id="db30f322937e910111b46b5dd9165538-466cd56a5a7ca2d9b439e2d04440e06a437ddc63" title="resource.language.zh_tw">resource.language.zh_tw</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a href="/kodi-pvr/pvr.iptvsimple/commit/fcc49e7114584df6a5adc5a71b9ed00f7f9ef7a1" class="message" data-pjax="true" title="[lang] update of language files from Transifex">[lang] update of language files from Transifex</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2015-06-28T20:12:55Z">Jun 28, 2015</time-ago></span>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+
+</div>
+
+
+
+  
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+
+    </div>
+  </div>
+
+    </div>
+
+        <div class="container site-footer-container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage" class="site-footer-mark" title="GitHub">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2016 <span title="0.12434s from github-fe123-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+    
+
+    <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+      </button>
+      You can't perform that action at this time.
+    </div>
+
+
+      
+      <script crossorigin="anonymous" integrity="sha256-ZVMF8EU/Qk+Nq4fcGuDjheWYL3L34s4U6xqcIpF0zr4=" src="https://assets-cdn.github.com/assets/frameworks-655305f0453f424f8dab87dc1ae0e385e5982f72f7e2ce14eb1a9c229174cebe.js"></script>
+      <script async="async" crossorigin="anonymous" integrity="sha256-WyYTflBZVr6r41ANAv4Mv8/JFLcFRhO0s4gSx2XVtR0=" src="https://assets-cdn.github.com/assets/github-5b26137e505956beabe3500d02fe0cbfcfc914b7054613b4b38812c765d5b51d.js"></script>
+      
+      
+      
+      
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+    <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+    </button>
+  </div>
+</div>
+
+  </body>
+</html>
+
